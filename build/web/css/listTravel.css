@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 7, 2018, 11:00:22 PM
+    Author     : Kai
+*/
+
+.mywrapper{
+    padding: 10rem 0 10rem 0 ;
+    margin: 0;
+}
+.myshadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/*.fontList{
+    font-size: 7rem;
+}*/
+.mywrapper header p{
+    font-size: 1.5rem !important;
+}
+.mywrapper header h2{
+    font-size: 3.5rem !important;
+}
+.mygird{
+    width: 100%;
+    margin: 0 0 2.5rem 0;
+}
+
+.food.title{
+    font-size: medium;
+    font-weight: bold;
+}
+.food.address{
+    font-size: small;
+    opacity: 0.7;
+}

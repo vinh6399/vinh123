@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 13, 2018, 3:54:46 PM
+    Author     : Kai
+*/
+
+.mywrapper{
+    padding: 10rem 0 10rem 0 ;
+    margin: 0;
+}
+
+.myshadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/*.fontList{
+    font-size: 7rem;
+}*/
+.mywrapper header p{
+    font-size: 1.5rem !important;
+}
+.mywrapper header h2{
+    font-size: 3.5rem !important;
+}
+
+/*  card    */
+.textCardFooter{
+    margin-top: 0;
+    background-color: #f7f7f7;
+    opacity: 0.4;
+    text-align: right;
+    font-size: 1rem;
+}
+.card-body h4{
+    font-size: 1.5rem;
+}
+.cardImg{
+    height: 330px;
+    overflow: hidden;
+}
+
+.card{
+    height: 750px;
+}
